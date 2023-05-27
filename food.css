@@ -1,0 +1,40 @@
+#body{
+    background-color: #dddfe2;
+    width: 71%;
+    height: 1380px;
+}
+.food {
+    width: 30%;
+    height: 425px;
+    background-color: #ffffff;
+    float: left;
+    margin: 17px;
+    border-radius: 12px;
+}
+img{
+    width: 100%;
+}
+#iq {
+    width: 90%;
+    margin: 0;
+    padding: 5px;
+    height: 120px;
+}
+.line{
+    color: #dddfe2;
+    margin: none;
+}
+#link{
+    margin-left: 150px;
+}
+#value{
+    margin-left: 25px;
+}
+div
+{
+    float: left;
+}
+.links{
+    color: #ff0000;
+    text-decoration: none;
+}
